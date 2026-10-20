@@ -6,6 +6,7 @@
 4. Sales (reported via reseller portal Point of Sales + direct sales via SAP Accounting) data set: concluded Opportunities (Opportunity ID/Quote ID), SKU, Qty, Revenue, Bill-to account
 
 **Methods**: 
+
 SNOWFLAKE: left join, full join, inner join; Customer SQL; dataset preview, dataset publishing; 
 
 TABLEAU SOFTWARE: Coherence control (nb of records) for data sets from Snowflake; Data Viz automation. 
